@@ -64,7 +64,8 @@ Enabled querying capabilities without the need for pre-provisioned infrastructur
 Created SQL databases and schemas to logically structure the data.
 Defined external tables and views to support efficient BI consumption and reporting.
 ->
-->
+
+![Image](https://github.com/user-attachments/assets/89695ba2-cbe6-42b0-9a00-fe941c37af26)
 
 The refined and structured data was subsequently stored in the gold container, ready for reporting and analysis.
 ![Image](https://github.com/user-attachments/assets/cc24bd2d-8a4a-41fa-ab86-fdd13d1e81a3)
