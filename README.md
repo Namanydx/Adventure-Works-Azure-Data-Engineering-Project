@@ -41,7 +41,9 @@ A Databricks cluster was provisioned to handle data processing efficiently.
 
 **Data Lake Access:**
 The cluster was integrated with Azure Storage to seamlessly access raw data stored in the data lake.
-->
+
+![Image](https://github.com/user-attachments/assets/e7abc0f8-bd31-48c8-9be0-3d4771f1ab12)
+
 # Transformations Applied:
 
 Standardized date formats to ensure consistency across records.
