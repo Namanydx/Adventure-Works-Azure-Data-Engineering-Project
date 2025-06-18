@@ -30,7 +30,8 @@ Parameters were incorporated to make the pipeline flexible and easily adaptable 
 ![Image](https://github.com/user-attachments/assets/c54ce34f-e6a4-4b3d-8525-bd8d8a292a61)
 
 The raw data is now securely stored and prepared for the transformation process.
-->
+
+![Image](https://github.com/user-attachments/assets/4ae7c2eb-0f48-49ea-bafb-03113c124639)
 
 # Step 3: Data Transformation with Azure Databricks 🔄
 Azure Databricks was used to transform raw data from the bronze layer into a structured and analyzable format.
