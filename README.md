@@ -78,7 +78,7 @@ Power BI was connected to Azure Synapse Analytics for seamless data access.
 **Dashboard & Report Development:**
 Interactive dashboards and reports were created to provide stakeholders with clear, actionable insights.
 
-->
+![Image](https://github.com/user-attachments/assets/5a00bde0-3027-49b7-b560-25a669952713)
 
 
 
