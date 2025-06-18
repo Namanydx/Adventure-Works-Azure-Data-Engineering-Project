@@ -26,7 +26,9 @@ ADF retrieves data from GitHub via an HTTP connector and loads it into the bronz
 
 **Parameterized Pipeline:**
 Parameters were incorporated to make the pipeline flexible and easily adaptable to changes in the data source.
-->
+
+![Image](https://github.com/user-attachments/assets/c54ce34f-e6a4-4b3d-8525-bd8d8a292a61)
+
 The raw data is now securely stored and prepared for the transformation process.
 ->
 
