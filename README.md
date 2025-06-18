@@ -63,7 +63,8 @@ Enabled querying capabilities without the need for pre-provisioned infrastructur
 **Database & Schema Design:**
 Created SQL databases and schemas to logically structure the data.
 Defined external tables and views to support efficient BI consumption and reporting.
-->
+
+![Image](https://github.com/user-attachments/assets/2e655651-fbfa-40bf-a101-2cba4a481c7c)
 
 ![Image](https://github.com/user-attachments/assets/89695ba2-cbe6-42b0-9a00-fe941c37af26)
 
