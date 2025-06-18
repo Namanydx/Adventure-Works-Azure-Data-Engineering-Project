@@ -56,7 +56,7 @@ Stored the cleaned and structured data in the silver container using Parquet for
 
 ![Image](https://github.com/user-attachments/assets/011f3ee3-cfa1-4371-8f27-089bef58b16a)
 
-->
+![Image](https://github.com/user-attachments/assets/2494c26f-6c3c-4da4-82f2-ac1cbe41c21c)
 
 # Step 4: Data Warehousing with Azure Synapse Analytics 📊
 Azure Synapse Analytics was used to organize and prepare the processed data for advanced analysis and Business Intelligence reporting.
