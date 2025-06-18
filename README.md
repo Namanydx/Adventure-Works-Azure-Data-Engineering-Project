@@ -53,7 +53,9 @@ Removed invalid or incomplete entries to improve data quality.
 Aggregated and concatenated data to enhance usability for analysis.
 
 Stored the cleaned and structured data in the silver container using Parquet format for efficient storage and querying.
-->
+
+![Image](https://github.com/user-attachments/assets/e7abc0f8-bd31-48c8-9be0-3d4771f1ab12)
+
 ->
 
 # Step 4: Data Warehousing with Azure Synapse Analytics 📊
