@@ -54,7 +54,7 @@ Aggregated and concatenated data to enhance usability for analysis.
 
 Stored the cleaned and structured data in the silver container using Parquet format for efficient storage and querying.
 
-![Image](https://github.com/user-attachments/assets/e7abc0f8-bd31-48c8-9be0-3d4771f1ab12)
+![Image](https://github.com/user-attachments/assets/011f3ee3-cfa1-4371-8f27-089bef58b16a)
 
 ->
 
