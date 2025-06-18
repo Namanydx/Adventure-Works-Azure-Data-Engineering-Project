@@ -67,7 +67,7 @@ Defined external tables and views to support efficient BI consumption and report
 ->
 
 The refined and structured data was subsequently stored in the gold container, ready for reporting and analysis.
-->
+![Image](https://github.com/user-attachments/assets/cc24bd2d-8a4a-41fa-ab86-fdd13d1e81a3)
 
 # Step 5: Business Intelligence Integration 🕵️‍♂️
 The final phase focused on visualizing the data and delivering insights through a BI tool.
